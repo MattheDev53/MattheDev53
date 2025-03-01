@@ -1,16 +1,27 @@
-## Hi there 👋
+# About Me
+## Languages that...
+### I have worked with
+- Java
+- Python
+- Bash
+- Markdown
+### I am interested in
+- Kotlin
+- Rust
+- Javascript/Typescript
+### I think are batshit insane
+- HTML (I fear no man, but that thing. It scares me)
+## Tech
+### I'm familiar with/use
+- Nix/NixOS
+- Linux
+- Neovim
+- VSCode/VSCodium
+- Obsidian
+### I'm interested in
+- GrapheneOS
+## Coding Experience
+- Part of [FTC Team 4982](https://theorangealliance.org/teams/4982) : ~2018-2024
+- Part of [FRC Team 6744](https://www.thebluealliance.com/team/6744) : 2023-Now
 
-<!--
-**MattheDev53/MattheDev53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---->
