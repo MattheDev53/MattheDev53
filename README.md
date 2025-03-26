@@ -44,3 +44,4 @@ I'm a goofball who writes code and sometimes it works. I friggin hate HTML for t
 
 -   Part of [FTC Team 4982](https://theorangealliance.org/teams/4982) : ~2018-2024
 -   Part of [FRC Team 6744](https://www.thebluealliance.com/team/6744) : 2023-Now
+-   Just look at my GitHub Repos for my other experience
