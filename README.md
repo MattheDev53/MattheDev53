@@ -6,8 +6,8 @@ I'm a goofball who writes code and sometimes it works. I friggin hate HTML for t
 
 ## Fancy Chart
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MattheDev53&show_icons=true&theme=gruvbox#gh-dark-mode-only)
-![Stats](https://github-readme-stats.vercel.app/api?username=MattheDev53&show_icons=true&theme=gruvbox_light#gh-light-mode-only)
+[![Stats](https://github-readme-stats.vercel.app/api?username=MattheDev53&show_icons=true&theme=gruvbox#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Stats](https://github-readme-stats.vercel.app/api?username=MattheDev53&show_icons=true&theme=gruvbox_light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 # Technical Breakdown
 
