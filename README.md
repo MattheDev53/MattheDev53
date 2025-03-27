@@ -2,7 +2,12 @@
 
 ## About Me
 
-I'm a goofball who writes code and sometimes it works. I friggin hate HTML for the life of me. Not a front-end dev
+I'm a goofball who writes code and sometimes it works. I friggin hate HTML for the life of me. Not a front-end dev, I wish that HTML didn't look like utter dog ass
+
+## Fancy Chart
+
+![Stats](https://github-readme-stats.vercel.app/api?username=MattheDev53&show_icons=true&theme=gruvbox#gh-dark-mode-only)
+![Stats](https://github-readme-stats.vercel.app/api?username=MattheDev53&show_icons=true&theme=gruvbox_light#gh-light-mode-only)
 
 # Technical Breakdown
 
